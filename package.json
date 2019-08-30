@@ -11,7 +11,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expo/samples": "2.1.1",
+    "@expo/samples": "3.0.1",
     "@expo/vector-icons": "^9.0.0",
     "@mapbox/polyline": "^1.0.0",
     "expo": "^32.0.0",
