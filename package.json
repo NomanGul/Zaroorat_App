@@ -25,7 +25,7 @@
     "react-native-maps": "^0.23.0",
     "react-native-maps-directions": "^1.6.0",
     "react-navigation": "^3.0.9",
-    "react-redux": "^6.0.0",
+    "react-redux": "^7.2.0",
     "redux": "^4.0.1",
     "redux-persist": "^5.10.0",
     "redux-promise-middleware": "^6.1.0",
